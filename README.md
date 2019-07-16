@@ -6,4 +6,4 @@
 
 ## Get your Workshop Instructions
 
-1. Go to [https://github.com/millerdz/hybrid-app/tree/dash2019](https://github.com/millerdz/hybrid-app/tree/dash2019)
+1. Go to [https://github.com/millerdz/ee-workshop/tree/dash2019/conf/dash-2019](https://github.com/millerdz/ee-workshop/tree/dash2019/conf/dash-2019)
